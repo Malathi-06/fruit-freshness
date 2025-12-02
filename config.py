@@ -1,0 +1,4 @@
+IMG_SIZE = (128, 128)
+BATCH_SIZE = 32
+EPOCHS = 12
+MODEL_DIR = "models"
